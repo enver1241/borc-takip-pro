@@ -1,6 +1,6 @@
-# borc-takip-pro
 
-# Borç Takip Pro
+
+#  Borç Takip Pro 
 
 Professional desktop application for debt, receivable, invoice, and payment management.
 
